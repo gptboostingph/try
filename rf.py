@@ -116,7 +116,7 @@ def approval():
     print(f"\033[1;37m [\u001b[36m•\033[1;37m] Your Key :\u001b[36m {key}")
     
     urls = [
-        "https://github.com/gptboostingph/app/blob/main/blob.txt"
+        "https://github.com/gptboostingph/approval/blob/main/approval.txt"
     ]
     
     key_found = False
